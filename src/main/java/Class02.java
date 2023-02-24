@@ -1,2 +1,3 @@
-public class Class02 {
+public class Class02 {main
+  method eklemeyi unutma
 }
